@@ -1,5 +1,7 @@
 # Movehack
 
+Source: https://www.movehack.gov.in/campaign/1/about
+
 # Problem Statement 1: Multi-Modal Commuter Mobility in Cities
 
 Context: Poor and fragmented mobility has been considered a key contributor to restrained economic growth, deteriorated quality of life, increased usage of private vehicles, congestion in cities, increased cost of transportation, increase of road accidents, etc. Various cities in India still have fragmented transportation systems which impacts lives of millions of commuters. We need to address this problem and provide a more seamless and integrated experience to the commuter and enable various stakeholders in the mobility ecosystem with a mechanism to effectively integrate with each other. An Integrated Multi-modal Commuter Transport System will combine the strengths of different transport systems and will allow the commuters to have a seamless experience throughout their journey. The system will also try to address typical concerns regarding multi-modal transportation systems, including the coordination between multiple modes of travel, integration and settlement procedures, degree of certainty to reach a destination in defined time, level of comfort, etc.
